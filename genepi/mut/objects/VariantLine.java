@@ -1215,7 +1215,7 @@ public class VariantLine implements Comparable<VariantLine> {
 		try {
 
 			/**
-			 * 10× coverage of qualified bases on both positive and negative
+			 * 10x coverage of qualified bases on both positive and negative
 			 * strands;
 			 */
 
